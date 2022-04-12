@@ -1,0 +1,6 @@
+test/
+Ghost/gsdll32.dll
+Ghost/gsdll32.lib
+Ghost/gswin32c.exe
+build/*.exe
+Thumbs.db
